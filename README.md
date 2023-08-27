@@ -1,4 +1,4 @@
-<h1 align="center"><b>『Revor Musíc』 </b></h1>
+<h1 align="center"><b>『Ze Musíc』 </b></h1>
 
 <p align="center">
     <br><b>يدعم تشغيل الموسيقي والفديو داخل المحادثات الصوتية</b><br>
