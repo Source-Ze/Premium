@@ -1,0 +1,3 @@
+from os import getenv
+BOT_USERNAME = getenv("BOT_USERNAME", "LN_MBOT")
+ASSISTANT_NAME = getenv("ASSISTANT_USERNAME", "IUYGYGF")
